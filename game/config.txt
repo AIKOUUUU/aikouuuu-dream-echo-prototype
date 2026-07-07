@@ -1,0 +1,9 @@
+Game_name:梦回声;
+Game_key:14d0cd97b283253;
+Title_img:22.png;
+Title_bgm:contemplative-echoes_89279.mp3;
+Textbox_theme:imss;
+Package_name:梦回声;
+Description:梦回声;
+Game_Logo:1.png;
+Default_Language:ja;
